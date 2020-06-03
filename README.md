@@ -15,7 +15,7 @@ The files are:
 - index.css
 - index.js
 
-index.html contains the basic layout of the calendar. It contains the link to the index.css file and the index.js file. Also, the jQuery, fontawesome and googlefont cdn has been taken in head section of the file.
+index.html contains the basic layout of the calendar. It contains the link to the index.css file and the index.js file. Also, the jQuery, font-awesome and google-font cdn has been taken in head section of the file.
 
 ![html1](https://user-images.githubusercontent.com/65732245/83620078-70941e00-a5aa-11ea-8bb8-c6a887058d7d.JPG)
 ![html2](https://user-images.githubusercontent.com/65732245/83620073-6eca5a80-a5aa-11ea-96c5-a3200a014ec9.JPG)
@@ -72,4 +72,6 @@ If the user wants to add an event for a particular date, they have to click on &
 
 If the user wants to delete the event, then, they have to click on &#39;view events&#39; button and click the trash icon for the event to be deleted.
 
+**Author:**
 
+**Nileena James**
